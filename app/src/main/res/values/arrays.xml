@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="textsize">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>30</item>
+        <item>36</item>
+    </string-array>
+
+    <string-array name="memoqty">
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>14</item>
+        <item>30</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="item_name">
+        <item>300;牛乳</item>
+        <item>300;卵</item>
+        <item>100;米</item>
+        <item>500;ヨーグルト</item>
+        <item>100;キャベツ</item>
+        <item>100;たまねぎ</item>
+        <item>100;長ねぎ</item>
+        <item>100;レタス</item>
+        <item>400;ビール</item>
+        <item>100;トマト</item>
+        <item>500;食パン</item>
+        <item>300;豚肉</item>
+
+    </string-array>
+
+    <string-array name="category_name">
+        <item>100;青果</item>
+        <item>200;水産</item>
+        <item>300;畜産</item>
+        <item>400;飲料</item>
+        <item>500;加工</item>
+        <item>600;日用品</item>
+        <item>700;衣料</item>
+        <item>800;家電</item>
+        <item>900;書籍</item>
+        <item>999;*</item>
+
+    </string-array>
+
+
+</resources>

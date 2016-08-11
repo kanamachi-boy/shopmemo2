@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">shopmemo2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="guide1">
+        ここをタップして\n
+        品目リストから選択します。\n
+        「品目登録」から\n
+        手入力することもできます。\n
+        （自動登録されます）\n
+        \n
+        □次回からこのガイドを表示しない
+
+    </string>
+
+</resources>

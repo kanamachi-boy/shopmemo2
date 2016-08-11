@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.banchan.shopmemo2.MainActivity">
+
+    <item
+        android:id="@+id/action_add"
+        android:title="リストに登録"
+        android:icon="@drawable/ic_action_add_item"
+        android:orderInCategory="123"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_load"
+        android:title=" メモを呼び出し"
+        android:icon="@drawable/ic_action_search"
+        android:orderInCategory="125"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_undo"
+        android:title="買物済み取消し"
+        android:icon="@drawable/ic_action_undo"
+        android:orderInCategory="127"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_memory"
+        android:title=" メモを記録"
+        android:orderInCategory="130"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_clear"
+        android:title="画面をクリア"
+        android:orderInCategory="140"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_setting"
+        android:title="設定"
+        android:orderInCategory="145"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_end"
+        android:title="終了"
+        android:orderInCategory="150"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="text_size"
+        android:title="文字のサイズ"
+        android:summary=""
+        android:entries="@array/textsize"
+        android:entryValues="@array/textsize"
+        android:dialogTitle="文字サイズを選択して下さい" />
+
+    <ListPreference
+        android:key="keepmemoqty"
+        android:title="メモの保存数"
+        android:summary=""
+        android:entries="@array/memoqty"
+        android:entryValues="@array/memoqty"
+        android:dialogTitle="webアクセスのタイムアウト時間" />
+
+</PreferenceScreen>
