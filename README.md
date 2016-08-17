@@ -1,4 +1,4 @@
-# shopmemo2
+## shopmemo2
 android 4.4.2 (API 19) 以上推奨
 
 買物用のメモ作成・保存
